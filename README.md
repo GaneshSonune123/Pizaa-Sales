@@ -1,6 +1,6 @@
 # Pizaa-Sales
 
-##Tech Stack-
+## Tech Stack-
 Python, SQL, Excel, PowerBI, Data cleaning, Data Visualization, Data Extraction, Preprocessing
 
 
